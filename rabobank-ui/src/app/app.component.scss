@@ -1,0 +1,46 @@
+
+table {
+    width: 100%;
+  }
+.toolbar{
+    background:#0892D0;
+    box-shadow: 0 3px 5px -1px rgba(0,0,0,.2), 0 6px 10px 0 rgba(0,0,0,.14), 0 1px 18px 0 rgba(0,0,0,.12);
+  }
+.mat-toolbar-row {
+    background: #FFF;   
+    border-bottom: 1px solid gray;
+ }
+.table-header{
+   background: rgb(223, 148, 99);
+   font-size: 14px; 
+   font-weight: bold;
+}
+.inputfile-3 + label {
+    color: #082f26b2;
+}
+.inputfile-3:focus + label,
+.inputfile-3.has-focus + label,
+.inputfile-3 + label:hover {
+    color: #55722067;
+}
+.upload{
+    display: none !important;
+}
+.upload-box{
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background: rgb(223, 148, 99);
+}
+.box{
+    margin: 15px;
+}
+.mat-grid-list{
+    background-color: rgba(210, 84, 25, 0.05);
+    height: 30px;
+    border-bottom: 1px solid gray;
+}
+.upload-label{
+    padding-left: 10px;
+
+}
