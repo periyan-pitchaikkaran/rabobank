@@ -1,0 +1,6 @@
+com\rabobank\customer\statement\parser\impls\XMLFileParserTest.class
+com\rabobank\customer\statement\service\impls\CustomerStatementServiceTest.class
+com\rabobank\customer\statement\parser\impls\ParseContextTest.class
+com\rabobank\customer\statement\parser\impls\CSVFileParserTest.class
+com\rabobank\customer\statement\api\controllers\v1\CustomerStatementControllerTest.class
+com\rabobank\RabobankStatementProcessorApplicationTests.class

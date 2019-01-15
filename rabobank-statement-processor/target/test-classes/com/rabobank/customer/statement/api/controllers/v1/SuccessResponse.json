@@ -1,0 +1,16 @@
+{
+  "status": {
+    "status_code": "1001",
+    "status_desc": "failure records retrieved"
+  },
+  "failure_records": [
+    {
+      "reference": 112806,
+      "description": "Tickets from Richard Bakker"
+    },
+    {
+      "reference": 112806,
+      "description": "Clothes for Richard de Vries"
+    }
+  ]
+}

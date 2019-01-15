@@ -1,0 +1,117 @@
+{"properties": [
+  {
+    "name": "swagger.config.api.path",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.config.api.path'"
+  },
+  {
+    "name": "api.description",
+    "type": "java.lang.String",
+    "description": "A description for 'api.description'"
+  },
+  {
+    "name": "api.title",
+    "type": "java.lang.String",
+    "description": "A description for 'api.title'"
+  },
+  {
+    "name": "api.version",
+    "type": "java.lang.String",
+    "description": "A description for 'api.version'"
+  },
+  {
+    "name": "company.license.url",
+    "type": "java.lang.String",
+    "description": "A description for 'company.license.url'"
+  },
+  {
+    "name": "company.email",
+    "type": "java.lang.String",
+    "description": "A description for 'company.email'"
+  },
+  {
+    "name": "company.website",
+    "type": "java.lang.String",
+    "description": "A description for 'company.website'"
+  },
+  {
+    "name": "company.name",
+    "type": "java.lang.String",
+    "description": "A description for 'company.name'"
+  },
+  {
+    "name": "swagger.config.api.basepackage",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.config.api.basepackage'"
+  },
+  {
+    "name": "rabobank.api.version",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.api.version'"
+  },
+  {
+    "name": "rabobank.api.description",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.api.description'"
+  },
+  {
+    "name": "rabobank.api.title",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.api.title'"
+  },
+  {
+    "name": "rabobank.company.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.company.name'"
+  },
+  {
+    "name": "rabobank.company.website",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.company.website'"
+  },
+  {
+    "name": "rabobank.company.email",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.company.email'"
+  },
+  {
+    "name": "rabobank.company.license.url",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.company.license.url'"
+  },
+  {
+    "name": "rabobank.swagger.config.api.basepackage",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.swagger.config.api.basepackage'"
+  },
+  {
+    "name": "rabobank.swagger.config.api.path",
+    "type": "java.lang.String",
+    "description": "A description for 'rabobank.swagger.config.api.path'"
+  },
+  {
+    "name": "swagger.config.api.version",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.config.api.version'"
+  },
+  {
+    "name": "swagger.config.api.description",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.config.api.description'"
+  },
+  {
+    "name": "swagger.config.api.title",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.config.api.title'"
+  },
+  {
+    "name": "upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'upload-dir'"
+  },
+  {
+    "name": "swagger.config.api.file.upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.config.api.file.upload-dir'"
+  }
+]}
